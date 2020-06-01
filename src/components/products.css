@@ -1,0 +1,22 @@
+
+#the-card  .color{
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+#the-card  .color1{
+  background-color: #000000;
+}
+#the-card  .color2{
+  background-color: #d5d5a7;
+}
+#the-card  .color3{
+  background-color: #ffffff;
+  border: 1px solid #a0a0a0;
+}
+
+#the-card .divider {
+  border: 1px solid #d0d0d0;
+  height: 40px;
+}
+

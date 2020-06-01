@@ -1,0 +1,32 @@
+.form-check-inline .color {
+  width: 15px;
+  height: 15px;
+}
+
+.form-check-inline .color1::before {
+  background-color: #000000;
+}
+
+.form-check-inline .color2 {
+  background-color: #d5d5a7;
+}
+
+.form-check-inline .color3 {
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+
+ .card label {
+  color: #000000;
+  background-color: white;
+  border: 1px solid #d0d0d0;
+}
+
+
+
+ .card label:focus {
+  background-color: blue !important;
+  border: 1px solid #121aff;
+}
+
+
